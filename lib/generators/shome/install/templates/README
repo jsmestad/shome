@@ -1,0 +1,13 @@
+===============================================================================
+
+Shome has installed the configuration files for the requested sandbox server.
+
+Some setup you must do manually if this is a new configuration:
+
+  1. `bundle install` to install the new gem dependencies.
+
+  2. Run `cap sandbox setup` to configure the sandbox server.
+
+  3. When your ready to deploy, run `cap sandbox deploy`.
+
+===============================================================================
